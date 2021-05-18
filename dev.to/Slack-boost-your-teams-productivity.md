@@ -103,6 +103,6 @@ It is useless if only a few people do it.
 It's possible that some of this tips don't apply to your company. You might need to ignore some of them, change others or simply create new ones to match your use cases.
 I really want to know what you think, and if you adopt one these I want to hear about the results it provided to your organization.
 Here you have some useful resources:
-- [Slackmojis](https://slackmojis.com/): It's a very long compilation of useful and funny Slack Emojis.
+- [Slackmojis](https://slackmojis.com/): this is a very long compilation of useful and funny Slack Emojis.
 - [Cool Text Generator](https://maketext.io/): when I need to create a text emoji I use this very simple, yet useful, website.
 - [Emojis named through this post](https://drive.google.com/drive/folders/1cp-F9m-01zCvjOpGkzXfN0AdjoSgZ5wN?usp=sharing)
