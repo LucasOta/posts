@@ -96,7 +96,7 @@ Avoiding this practice by starting a conversation on the team channel (you can a
 - Even if you are talking about something very technical that you think is just a matter of the frontend dev team, you might not know the whole team and some  from QA or backend knows about the framework you are working on. DO NOT underestimate anyone on the team.
 
 ##Adopting these practices is a team work
-Before adopting one of the tips written here in this article on your team or organization, you might want to discuss it with the rest of your team. After that, it will be a process to fully adopt it, some colleagues  can forget about starting a thread, or to use a Yes emoji reaction instead of writing the answer. In those cases you can use the :start_a_thread: emoji, or :use_emojis: , or :thats_a_paddlin: to help your partners to get used to it.
+Before adopting one of the tips written in this article on your team or organization, you might want to discuss it with the rest of your team. After that, it will be a process to fully adopt it: some colleagues will forget to start a thread or to use a 'Yes' emoji reaction instead of writing the answer. In those cases you can use the :start_a_thread: emoji, or :use_emojis: , or :thats_a_paddlin: to help your partners to get used to it.
 It is useless if only a few people do it.
 
 ##Conclusion
