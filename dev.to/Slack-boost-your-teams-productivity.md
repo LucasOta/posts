@@ -3,7 +3,7 @@
 Let’s suppose the following scenario: you started working in a five person startup; Slack was a bit messy, but it worked for you. After a while the company grows up, now there are 90 employees and the chat is full with random conversations, pets' pics, the important information is somewhere in there.
 If you are in a similar situation, or you just have an OCD with management like me, you must fix that.
 Slack can be funny (and it should, we are no robots), but primarily it’s a work tool meant to improve the productivity and the communication.
-In this post I want to propose some tips that I’ve used on different companies and teams that have improved our workflow.
+In this post I want to propose some tips that improved the workflow in the different companies and teams where I've used it.
 # Table of Content
 1. Don’t be afraid of creating channels
 2. Prioritize information at first glance
