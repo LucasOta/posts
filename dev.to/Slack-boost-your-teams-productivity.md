@@ -100,7 +100,7 @@ Before adopting one of the tips written in this article on your team or organiza
 It is useless if only a few people do it.
 
 ##Conclusion
-It's possible that some of this tip don't apply to your company, you might need to ignore some of them, change others or simply create new ones to match your use cases.
+It's possible that some of this tips don't apply to your company. You might need to ignore some of them, change others or simply create new ones to match your use cases.
 I really want to know what you think, and if you adopt one of the tips I gave you I want to hear what results it provided to your organization.
 Here you have some useful resources:
 - [Slackmojis](https://slackmojis.com/): It's a very long compilation of useful and funny Slack Emojis.
