@@ -1,6 +1,6 @@
 #Slack: boost your team's productivity
 
-Let’s suppose the following scenario: you started working in a five person startup, Slack was a bit messy, but it worked for you. After a while the company grows  and now you have 90 employees and the chat is full with random conversations, pet’s pics, and somewhere there is important information.
+Let’s suppose the following scenario: you started working in a five person startup; Slack was a bit messy, but it worked for you. After a while the company grows up, now there are 90 employees and the chat is full with random conversations, pets' pics, the important information is somewhere in there.
 Whether you are in a similar situation, or you just have a TOC with management like me, you must fix that, Slack can be fun (and should, we are no robots), but primarily it’s a work tool meant to improve productivity and communication.
 In this post I want to propose some tips that I’ve used on different companies and teams that have improved our workflow.
 # Table of Content
