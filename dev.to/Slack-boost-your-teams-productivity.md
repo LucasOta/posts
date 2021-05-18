@@ -47,12 +47,12 @@ _Option A_
 _Option B_
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dktyh8oz854f3umyvj0a.png)
 
-I think the answer is quite obvious, there can also be a discussion on a thread, but having the emojis as the final answer. Also, if there are only :no: emojis, you can use a :cancelled: emoji on the thread to tell everyone that it has been cancelled.
+I think the answer is quite obvious, there can also be a discussion on a thread, but having the emojis as the final answer. Also, if there are only :no: emojis, you can use a :cancelled: emoji on the thread to let everyone know that it has been cancelled.
 
 Short answers are very likely to be replaced with an emoji: yes, no, I don’t know (IDK), thanks, solved, merged, done. It might sound quite robotic or impersonal for you, but remember, this is a work tool that seeks for productivity increases, you can still do funny things on the side channel that I proposed earlier.
 
 ##We are not tailors, but please, let's use more threads 🧵
-Following the idea of finding relevant information at first glance, imagine a message starts a long conversation and you don't use a tread. If you need to find a message sent before that conversation, you'll have to scroll a lot. Apart from that, the channel would turn into a mess. Wouldn't it be better having a thread that only people involved on that matter will open?
+Following the idea of finding relevant information at first glance, imagine a message starts a long conversation and you don't use a tread. If you need to find a message sent before that conversation, you'll have to scroll a lot. Apart from that, the channel would turn into a mess. Wouldn't it be better to have a thread that only people involved on that matter will open?
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bg2ahpohluut0fxas5j0.png)
 
 Besides, it’s not only about having a nice and well organized chat, but also not to disturb team members not involved in the conversation. Just imagine a conversation of 30 messages between 2 persons on the team channel (or even worse, on a general channel), there  will be a lot of people being disturbed  with 30 notifications unnecessarily.
